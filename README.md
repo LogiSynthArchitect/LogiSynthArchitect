@@ -1,38 +1,36 @@
-# ⚡ LogiSynth | Systems Architecture & Strategic Engineering
+# Abel Dossa
 
-**Orchestrating complexity. Eliminating leakage. Shipping truth.**
+Systems engineer and product builder.
 
-I am a Strategic Systems Architect. I don't build apps; I engineer ecosystems. By leveraging AI as a high-velocity production engine, I bypass the syntax grind to focus 100% on **Logic, Data Integrity, and Modular Infrastructure.**
-
----
-
-### 🏛️ The LogiSynth Pillars
-* **Zero Leakage:** Strict separation of concerns. Logic belongs in services, not the UI layer.
-* **Offline-First Reliability:** Building resilient systems for high-latency and zero-connectivity environments.
-* **Schema-Driven Development:** Data is the foundation; code is merely the delivery mechanism.
-* **AI-Augmented Velocity:** Mastering AI orchestration to out-pace traditional manual workflows without sacrificing engineering quality.
+I design and build enterprise-grade infrastructure, automate complex
+workflows, and ship full-stack products from zero to production.
 
 ---
 
-### 🏗️ Current Build: The Mist (Automotive CRM)
-*LogiSynth’s flagship industrial engine.*
-* **The Problem:** Fragmented global vehicle data and unreliable connectivity for automotive security professionals.
-* **The Solution:** A high-performance, modular CRM with sub-second transponder search and robust offline synchronization.
-* **Tech Stack:** React, TypeScript, Capacitor, IndexedDB.
+**What I build**
+
+- Enterprise systems — automation pipelines, integrations, backend infrastructure
+- Full-stack products — mobile and web applications built to production standards
+- AI-augmented development workflows — using AI as a core part of how I architect and ship
 
 ---
 
-### 🛠️ Technical Arsenal
-* **Architectures:** Modular Monoliths, Micro-Frontends, Serverless.
-* **Foundations:** React, TypeScript, Python, Rust.
-* **Mobile:** Capacitor, Flutter.
-* **Data:** IndexedDB, PostgreSQL, Complex Schema Design.
+**Current**
+
+- **Keystone** — a Flutter/Supabase mobile product, V1 live with pilot users
+- Client infrastructure and automation work across enterprise environments
 
 ---
 
-### 📈 Traceability
-* **Status:** Architecting "The Mist" Sync Engine.
-* **Philosophy:** "Architecture is the art of deciding what NOT to build."
+**Stack**
+
+Flutter · React Native · Supabase · TypeScript · Node.js
+Clean architecture · Offline-first · AI-augmented development
 
 ---
-*Powered by LogiSynth Logic.*
+
+**Approach**
+
+Documentation before code.
+Standards before speed.
+Systems that hold up under pressure.

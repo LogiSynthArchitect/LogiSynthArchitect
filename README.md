@@ -7,25 +7,20 @@ workflows, and ship full-stack products from zero to production.
 
 ---
 
-**What I build**
+**What I do**
 
-- Enterprise systems — automation pipelines, integrations, backend infrastructure
-- Full-stack products — mobile and web applications built to production standards
-- AI-augmented development workflows — using AI as a core part of how I architect and ship
+- Mobile Development — native and cross-platform applications built to production standards
+- Web Development — full-stack web systems and enterprise-grade interfaces
+- Backend Development — APIs, databases, and infrastructure that scale
+- Systems Automation — automating complex business workflows and integrations
+- AI-Augmented Development — using AI as a core part of how I architect and ship
 
 ---
 
 **Current**
 
-- **Keystone** — a Flutter/Supabase mobile product, V1 live with pilot users
+- **Keystone** — a mobile product, V1 live with pilot users
 - Client infrastructure and automation work across enterprise environments
-
----
-
-**Stack**
-
-Flutter · React Native · Supabase · TypeScript · Node.js
-Clean architecture · Offline-first · AI-augmented development
 
 ---
 
